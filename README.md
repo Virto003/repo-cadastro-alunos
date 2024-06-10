@@ -31,7 +31,7 @@ Este projeto é uma aplicação simples de cadastro de alunos que permite realiz
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/usuario/repo-cadastro-alunos.git
+   git clone https://github.com/Virto003/repo-cadastro-alunos.git
    cd repo-cadastro-alunos
    ```
 
